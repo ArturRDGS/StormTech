@@ -17,7 +17,7 @@ O foco centrado no cliente é evidente na abordagem da ArchStorm, que compreende
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="./img/1320457.png" width="50" height="50">| 2022123TADS0012 | Artur Rodrigues Severo | [ArturRDGS](https://github.com/ArturRDGS)|arturrdgs@outlook.com|
-|<img src="./img/1320457.png" width="50" height="50">| 2022123TADS0039 | Fabrício Andrade Sousa | [Fabricio-Andrade-Sousa](https://github.com/Fabricio-Andrade-Sousa)|fabricio@outlook.com|
+|<img src="./img/1320457.png" width="50" height="50">| 2022123TADS0039 | Fabrício Andrade Sousa | [Fabricio-Andrade-Sousa](https://github.com/Fabricio-Andrade-Sousa)|caped.2022123TADS0039@aluno.ifpi.edu.br.com|
 |<img src="./img/1320457.png" width="50" height="50">| 2022123TADS0292 | Henrique Ferreira Alves | [Herickkj](https://github.com/Herickkj) |herikkj@outlook.com|
 |<img src="./img/1320457.png" width="50" height="50">| 2022132TADS0284 | Iago da Silva Amorim | [danonep2](https://github.com/danonep2) |iago@outlook.com|
 |<img src="./img/1320457.png" width="50" height="50">| 2022123TADS0390 | Maria Milleny Teixeira Mesquita | [MillenyMesquita](https://github.com/MillenyMesquita) |milleny@outlook.com|

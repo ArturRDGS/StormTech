@@ -1,32 +1,28 @@
 # Guia de Estilo
 
-Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto ----------. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
+Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto Storm Tech. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
 
 ## Logo
 
-![Logo com fundo](inserir link da imagem)
-Autores: ----- e ----- 
+![Logo com fundo](./img/imagens-figma/logo.png)
+Autores: Fabrício e Henrique 
 
 ## Paleta de Cores
 
-A paleta de cores é composta por cinco cores base, incluindo marrom, duas tonalidades de azul e duas tonalidades de cinza que interagem bem com o marrom. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
+A paleta de cores é composta por sete cores base, incluindo azul com trez tonalidades diferentes, preto, branco e roxo
 
-![Paleta de Cores](inserir link da imagem)
+![Paleta de Cores](./img/imagens-figma/paleta.png)
 
 ## Tipografia
 
 As fontes utilizadas na aplicação serão:
 
-- Clarendon LT (Linotype) para títulos.
-- Sacramento (Open Font License) para títulos.
-- Enriqueta (Open Font License) para textos.
+- Red Hat mono (Open Font License) para títulos.
+- Rasa (Open Font License) para títulos.
+
 
 ## Botões
 
-Os botões utilizados no menu de navegação têm fundos transparentes e usam a cor marrom da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
+Os botões utilizados no menu de navegação tem cor branca e quando o ponteiro passa por cima fica com uma coloração azul e sublinhado. Outros botões tem uma certa semelhança com hover no entanto muda a coloração e tambem o formato.
 
-![Botões de Menu](inserir link da imagem)
-
-Os demais botões utilizados possuem fundo marrom e a fonte branca.
-
-![Outros Botões](inserir link da imagem)
+![Botões em geral](./img/imagens-figma/botões.png)
