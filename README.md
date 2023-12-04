@@ -1,12 +1,6 @@
-# RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de Engenharia de Software III (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo Prof. Cleber Araújo. **Atenção: Renomeie o seu repositório para (Ano.Semestre)(Grupo)(NomeDoProjeto).** 
-
-(Apague esta seção)
-
-# NomedoProjeto
-**Nome do Grupo:** ArchStorm
-**Disciplina:** Engenharia de Software III
+# Stormtech
+**Nome do Grupo:** ArchStorm <br/>
+**Disciplina:** Engenharia de Software III <br/>
 **Professor:** Cléber Araujo
 
 
@@ -49,10 +43,30 @@ O StormTech é construído utilizando uma arquitetura MVC, adotando tecnologias 
 ## Instalação
 - **Tecnologias:** MKDocs
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. Insira um manual ou um script para auxiliar ainda mais.
+Para rodar o projeto do MKDocs em seu computador, o MKDocs necessita de algumas dependências para rodar normalmente, algumas extensões.
+
+ 1. Instalando MKDocs
+```bash
+pip install mkdocs
+```
+
+2. Instalando dependências do MKdocs
+```bash
+pip install pymdown-extensions --force
+```
+
 
 ## Uso
-Explique como usar o seu projeto, caso haja algum passo a passo após o comando de execução.
+Abra a pasta do projeto e inicie o servidor do projeto
+```bash
+mkdocs serve
+```
+Caso esteja rodando em sistema Windows este é o comando:
+```bash
+python -m mkdocs serve
+```
+
+
 
 ## Vídeo
 Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
