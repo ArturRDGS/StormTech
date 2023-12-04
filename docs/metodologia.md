@@ -1,17 +1,28 @@
 # Metodologia e Práticas de Desenvolvimento
 
 ## Metodologia de Software
-- **Origem da Metodologia:** Explique qual metodologia de desenvolvimento foi utilizada.
-- **Razões para a Metodologia:** Descreva por que essa abordagem foi escolhida, destacando como ela se adequa ao contexto do projeto e à equipe.
+- **Origem da Metodologia:** Metodologia Ágil e como uma etapa adicional Scrum.
+- **Razões para a Metodologia:** A escolha de uma abordagem ágil com entrega incremental, como o Scrum. Por ter Adaptabilidade a Mudanças, Visibilidade do Progresso, Motivação da Equipe e Abordagem interativa.
+
 
 *Anexe imagens da reũnião da equipe tanto presencial, quanto virtual*
 
 ## Organização da Equipe
-- **Estrutura de Equipe:** Explique como a equipe é organizada
+- **Estrutura de Equipe:** 
+
+| Nomes | Cargos | 
+| -------| ------------ | 
+| Artur Rodrigues | Arquiteto de Software | 
+| Fabrício Andrade | Desenvolvedor |
+| Henrique Ferreira | Desenvolvedor |
+| Iago Amorim | Analista de Requisito |
+| Milleny Mesquita | Gerente de Qualidade |
+
 
 ## Reuniões
 
-- **Ferramentas de Comunicação:** Liste as ferramentas de comunicação que serão utilizadas para reuniões e compartilhamento de tela, como Microsoft Teams, Google Meets e Discord.
+- **Ferramentas de Comunicação:** Foi utilizada a ferramenta do Discord como principal meio de comunicação entre a equipe, e também o WhatsApp como ferramenta de recados entre os integrantes.
+
 
 ## Outras Considerações
 - [Inclua outras informações relevantes sobre a metodologia e práticas adotadas, se aplicável.]
