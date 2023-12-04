@@ -4,8 +4,6 @@
 | -------| ------------ | -------------------|
 |  StormTech | Cleber Araujo | ArchStom |
 
-# Brainstorming 
-- Explique e coloque imagens de todas as reuniões do grupo, incluindo explicação de como ocorreu, datas, colaboraçoes, o que foi excluido e acatado na reuinão.  Esta apresentação deve incluir todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação.
 
 # Técnicas de Elicatação de Requisitos
 - Os requesitos levantados por nossa equipe foram retirados de uma entrevista semiestruturada realizada presencialmente com o nosso cliente e pela análise do contexto do sofrware requerido.

@@ -180,7 +180,7 @@ Agora, quanto aos principais componentes da arquitetura, estes podem ser observa
 
 - **Módulo de Transações:** Responsável por processar pagamentos, gerenciar carrinhos de compras e registrar transações bem-sucedidas.
 
-#### Referências:
+#### Referências
 - GRAVINA, I. EasyCoffee. Disponível em: [https://github.com/itallogravina/2020.2_G5_EasyCoffee](https://github.com/itallogravina/2020.2_G5_EasyCoffee). Acesso em: 1 dez. 2023.
 - CAMARGO, R. Entenda como funciona um planejamento iterativo e incremental. Disponível em: <https://robsoncamargo.com.br/blog/Entenda-como-funciona-um-planejamento-iterativo-e-incremental#:~:text=Um%20processo%20de%20desenvolvimento%20de>.
 - Como documentar softwares? Disponível em: <https://www.supero.com.br/blog/como-documentar-softwares/>.
