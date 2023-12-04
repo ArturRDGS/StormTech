@@ -1,5 +1,5 @@
-site_name: Projeto de Arquitetura de Software
-site_url: https://https://github.com/Klebber-ifpi/Arquitetura
+site_name: Projeto StormTech
+site_url: https://https://github.com/StormTech
 
 nav:
   - Home: 'index.md'
@@ -7,7 +7,7 @@ nav:
   - Identificação do Projeto: 'identificacao.md'
   - Representação Arquitetural: 'representacao.md'
   - Guia de Estilo: 'estilo.md'
-  - Metas e Restrições da Arquitetura: 'metas.md'
+  # - Metas e Restrições da Arquitetura: 'metas.md'
   - Padrões e Práticas Recomendadas: 'metas.md'
   - Comunicação e Integração: 'componentes.md'
   - Segurança: 'seguranca.md'
@@ -19,7 +19,7 @@ nav:
   - Metodologia: 'metodologia.md'
   - Visão Geral: 'visaogeral.md'
   - Visão Lógica: 'logica.md'
-  - Visão de Processos: 'processos.md'
+  # - Visão de Processos: 'processos.md'
   - Visão de Implantação: 'implantacao.md'
   - Visão de Dados: 'dados.md'
   - Qualidade: 'qualidade.md'

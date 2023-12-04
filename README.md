@@ -5,19 +5,41 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 (Apague esta seção)
 
 # NomedoProjeto
-**Número do Grupo:** XX
-**Disciplina:** xx
-**Professor:** xx
+**Nome do Grupo:** ArchStorm
+**Disciplina:** Engenharia de Software III
+**Professor:** Cléber Araujo
 
 
 ## Alunos
 | Matrícula   | Aluno             |
 |-------------|-------------------|
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
-| xx/xxxxxx   | xxxx xxxx xxxxx  |
+| 2022123TADS0012   | Artur Rodrigues Severo  |
+| 2022123TADS0039   | Fabrício Andrade Sousa  |
+| 2022123TADS0292   | Henrique Ferreira Alves |
+| 2022132TADS0284   | Iago da Silva Amorim    |
+| 2022123TADS0390   | Maria Milleny Teixeira Mesquita |
 
 ## Sobre
-Descrição geral do seu projeto.
+O projeto StormTech é uma plataforma de comércio eletrônico projetada para facilitar a interação entre consumidores e lojas parceiras. Essa aplicação web oferece uma experiência de compra intuitiva e eficiente, conectando usuários a uma variedade de produtos oferecidos por diferentes lojas.
+
+- **Objetivos Principais:**
+    - Facilitar Compras Online: Proporcionar aos usuários uma plataforma amigável e intuitiva para explorar e comprar produtos de diversas categorias.
+
+    - Suporte a Lojas Parceiras: Permitir que lojas parceiras cadastrem e gerenciem seus produtos, ampliando sua presença online e alcançando um público mais amplo.
+
+    - Segurança e Confiabilidade: Garantir transações seguras, protegendo informações sensíveis dos usuários e mantendo a confiabilidade em todas as interações.
+
+- **Principais Recursos:**
+    - Navegação Intuitiva: Interface de usuário projetada para facilitar a navegação, pesquisa e compra de produtos.
+
+    - Gestão de Lojas: Painel administrativo para lojas parceiras gerenciarem seu catálogo de produtos, pedidos e informações.
+
+    - Carrinho de Compras: Funcionalidade para adicionar e revisar produtos antes de concluir a compra.
+
+    - Autenticação Segura: Sistema de autenticação robusto para proteger informações do usuário e permitir transações seguras.
+
+### Tecnologias Utilizadas:
+O StormTech é construído utilizando uma arquitetura MVC, adotando tecnologias modernas para garantir desempenho, segurança e escalabilidade. Bancos de dados relacionais, APIs de pagamento e protocolos seguros estão entre os elementos-chave para o sucesso desta aplicação.
 
 ## Screenshots
 ![Screenshot 1](URL_da_Imagem_1)
@@ -25,8 +47,7 @@ Descrição geral do seu projeto.
 ![Screenshot 3](URL_da_Imagem_3)
 
 ## Instalação
-**Linguagens:** xxxxxx
-**Tecnologias:** xxxxxx
+- **Tecnologias:** MKDocs
 
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. Insira um manual ou um script para auxiliar ainda mais.
 
@@ -37,33 +58,30 @@ Explique como usar o seu projeto, caso haja algum passo a passo após o comando 
 Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
 
 ## Principal(is) Metodologia(s) Adotada(s)
-- Exemplo.: Scrum
+- Scrum: Metodologia ágil amplamente utilizada para o gerenciamento de projetos. Baseado em iterações curtas chamadas "sprints", o Scrum promove a colaboração e a entrega incremental, enfocando a adaptabilidade e a eficiência na execução de projetos.
 
 ## Principais Linguagens Utilizadas e/ou Pretendidas
-- Exemplo.:JavaScript
-- Exemplo.: Python
+- JavaScript
+- TypeScript
+- **Frameworks:**
+    - React
+    - Nest
 
 ## Principais Tecnologias Utilizadas e/ou Pretendidas
-- Exemplo: React
-- Exemplo: Django
+- React
+- Nest
+- PostgreSQL
 
 ## Principal(is) Estilo(s) Arquitetural(is) Adotado(s)
-- Exemplo: MTV - Model Template View
+- MVC: Arquitetura Model-View-Controller
 
 ## O Projeto está rodando?
 ( ) SIM (x) NÃO
 
 
-
-
-
-## RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de **Engenharia de Software III** (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo **Prof. Cleber Araújo**.
-
 ## Introdução
 
-Este repositório traz um template de documentação a ser seguido pelos grupos.
+Este repositório é dedicado ao projeto StormTech, uma plataforma de comércio eletrônico. Aqui, você encontrará recursos relacionados ao desenvolvimento e manutenção do projeto. Explore os elementos estruturais, documentação e recursos utilizados na aplicação. Este espaço visa facilitar a colaboração e contribuições para aprimorar continuamente o StormTech. Utilize-o para explorar, relatar problemas ou propor alterações. Agradecemos pela sua participação no desenvolvimento do StormTech.
 
 ## Tecnologia
 

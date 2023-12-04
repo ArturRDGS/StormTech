@@ -52,11 +52,6 @@ No entanto, é importante notar que certas considerações não estão dentro do
     - *Significado:* Linguagem para estilizar documentos HTML.
     - *Conceito:* Controla a apresentação visual de elementos HTML, permitindo a criação de layouts atraentes e consistentes.
 
-#### Referências:
-- GRAVINA, I. EasyCoffee. Disponível em: [https://github.com/itallogravina/2020.2_G5_EasyCoffee](https://github.com/itallogravina/2020.2_G5_EasyCoffee). Acesso em: 1 dez. 2023.
-- CAMARGO, R. Entenda como funciona um planejamento iterativo e incremental. Disponível em: <https://robsoncamargo.com.br/blog/Entenda-como-funciona-um-planejamento-iterativo-e-incremental#:~:text=Um%20processo%20de%20desenvolvimento%20de>.
-- Como documentar softwares? Disponível em: <https://www.supero.com.br/blog/como-documentar-softwares/>.
-- CAVALCANTI, L. Metodologias para a gestão de riscos: conheça as 4 melhores. Disponível em: <https://www.linkana.com/blog/metodologias-gestao-de-riscos/>. Acesso em: 1 dez. 2023.
 #### Visão Geral do Documento:
 
 Este documento proporciona uma visão abrangente da arquitetura do sistema StormTech, utilizando diversas perspectivas arquiteturais para abordar diferentes aspectos do projeto. A estrutura geral do documento é organizada de forma a fornecer informações detalhadas sobre cada componente vital do sistema, auxiliando na compreensão e implementação bem-sucedida.
@@ -75,58 +70,52 @@ Este documento proporciona uma visão abrangente da arquitetura do sistema Storm
 4. **Guia de Estilo:**
     - Define as diretrizes de estilo adotadas, exibindo a logo, paleta de cores, tipografia e outros detalhes utilizados no design.
 
-5. **Metas e Restrições da Arquitetura:**
-    - Enumera as metas e restrições que orientam as decisões arquiteturais, garantindo a conformidade com os requisitos e expectativas.
-
-6. **Padrões e Práticas Recomendadas:**
+5. **Padrões e Práticas Recomendadas:**
     - Descreve os padrões adotados e as práticas recomendadas para assegurar a qualidade e efetividade da arquitetura.
 
-7. **Comunicação e Integração:**
+6. **Comunicação e Integração:**
     - Explora os mecanismos de comunicação e integração entre os componentes do sistema StormTech.
 
-8. **Segurança:**
+7. **Segurança:**
     - Aborda as medidas e estratégias implementadas para garantir a segurança do sistema em todos os níveis.
 
-9. **Desempenho e Escalabilidade:**
+8. **Desempenho e Escalabilidade:**
     - Detalha as considerações arquiteturais para otimizar o desempenho e garantir a escalabilidade do sistema.
 
-10. **Realizações de Casos de Uso:**
+9. **Realizações de Casos de Uso:**
     - Analisa como a arquitetura suporta os casos de uso essenciais, garantindo que as funcionalidades atendam às expectativas dos usuários.
 
-11. **Plano de Risco:**
+10. **Plano de Risco:**
     - Identifica e avalia os riscos arquiteturais, bem como estratégias para mitigá-los.
 
-12. **Custos Estimados:**
+11. **Custos Estimados:**
     - Apresenta estimativas de custos relacionados à implementação e manutenção da arquitetura proposta.
 
-13. **Prototipagem:**
+12. **Prototipagem:**
     - Descreve a abordagem de prototipagem utilizada para validar conceitos arquiteturais antes da implementação completa.
 
-14. **Metodologia:**
+13. **Metodologia:**
     - Explana a metodologia adotada para desenvolver e manter a arquitetura do sistema StormTech.
 
-15. **Visão Geral:**
+14. **Visão Geral:**
     - Apresenta uma visão resumida e consolidada da arquitetura, destacando os principais elementos e suas interações.
 
-16. **Visão Lógica:**
+15. **Visão Lógica:**
     - Detalha a organização lógica dos componentes, módulos e funcionalidades do sistema.
 
-17. **Visualização do Processo:**
-    - Aborda a sequência de processos e interações entre os elementos do sistema StormTech.
-
-18. **Visão de Implantação:**
+16. **Visão de Implantação:**
     - Descreve a distribuição física dos componentes e recursos do sistema.
 
-19. **Visão de Dados:**
+17. **Visão de Dados:**
     - Analisa a estrutura e o fluxo de dados dentro do sistema, incluindo armazenamento e recuperação.
 
-20. **Qualidade:**
+18. **Qualidade:**
     - Enfatiza os critérios de qualidade considerados na concepção e implementação da arquitetura.
 
-21. **Anexos:**
+19. **Anexos:**
     - Inclui informações adicionais, diagramas detalhados, ou outros documentos relevantes para a compreensão da arquitetura.
 
-22. **Referências:**
+20. **Referências:**
     - Lista todas as fontes e documentos referenciados durante a elaboração deste documento.
 
 #### Público-Alvo:
@@ -190,3 +179,9 @@ Agora, quanto aos principais componentes da arquitetura, estes podem ser observa
 - **Módulo de Produtos:** O Módulo de Produtos gerencia a exibição, pesquisa e detalhes de produtos. Ele interage com o Modelo para garantir informações precisas.
 
 - **Módulo de Transações:** Responsável por processar pagamentos, gerenciar carrinhos de compras e registrar transações bem-sucedidas.
+
+#### Referências:
+- GRAVINA, I. EasyCoffee. Disponível em: [https://github.com/itallogravina/2020.2_G5_EasyCoffee](https://github.com/itallogravina/2020.2_G5_EasyCoffee). Acesso em: 1 dez. 2023.
+- CAMARGO, R. Entenda como funciona um planejamento iterativo e incremental. Disponível em: <https://robsoncamargo.com.br/blog/Entenda-como-funciona-um-planejamento-iterativo-e-incremental#:~:text=Um%20processo%20de%20desenvolvimento%20de>.
+- Como documentar softwares? Disponível em: <https://www.supero.com.br/blog/como-documentar-softwares/>.
+- CAVALCANTI, L. Metodologias para a gestão de riscos: conheça as 4 melhores. Disponível em: <https://www.linkana.com/blog/metodologias-gestao-de-riscos/>. Acesso em: 1 dez. 2023.
